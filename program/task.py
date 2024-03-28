@@ -1,8 +1,3 @@
-class NewClass:
-  pass
-
-
-
 class TaskPlanners:
   def __init__(self):
     # Инициализация планироващика задач
