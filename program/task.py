@@ -8,7 +8,7 @@ class TaskPlanners:
   def ChangeTask(self, task):
     #Изменение задачи
 
-  def NotificationTask(self):
+  def NotificationTask(self, task):
     # Оповещение о задаче
 
   def SaveTask(self, task):
